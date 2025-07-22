@@ -1,0 +1,61 @@
+# 🌐 Web Analytics Dashboard
+
+A sleek, interactive dashboard built with Tableau to visualize and monitor real-time website performance metrics. This project focuses on providing clear, actionable insights to drive data-driven decisions for product teams, marketing analysts, and web administrators.
+
+---
+
+## 🚀 Features
+
+- 📈 **KPI Cards** – Track critical metrics like Total Sessions, Bounce Rate, and Average Session Duration.
+- 🕸️ **Traffic Source Breakdown** – Visualize traffic coming from different channels (Direct, Referral, Social, etc.).
+- 🌍 **Geo Performance Map** – Identify top-performing regions based on session count and conversion rates.
+- ⏱️ **Time Series Trends** – Analyze historical trends across various user engagement metrics.
+- 🧭 **Device Segmentation** – Breakdown of user activity by device type (Mobile, Desktop, Tablet).
+- 🔄 **Dual Axis Visuals** – Combine metrics like Sessions and Bounce Rate using synchronized dual axes.
+- 📊 **Window Functions** – Leverage Tableau’s `WINDOW_MAX()` to dynamically highlight peak engagement points.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Visualization Tool:** Tableau Desktop
+- **Data Processing:** Tableau Data Engine
+- **Design:** Parameter controls, calculated fields, filter actions, synchronized dual axes
+
+---
+
+## 🎯 Use Case
+
+Designed for marketing and web teams to monitor user behavior and identify key trends across geographies, devices, and time periods—helping businesses make proactive improvements to their digital strategy.
+
+---
+
+## 📌 Key Learnings & Concepts
+
+- Difference between **blending vs. joining data**
+- Applying **Tableau's WINDOW functions** for comparative metrics
+- Using **synchronized dual axes** for better chart readability
+- Building **interactive dashboards** with filter actions and high-level summaries
+
+---
+
+## 🧪 How to Explore (If Hosted)
+
+1. Open Tableau Public or Desktop.
+2. Load the packaged workbook or connect to your own dataset.
+3. Use the filter panels to dynamically slice data by country, device type, or time range.
+
+---
+
+## 🧠 Future Enhancements
+
+- Integration with Google Analytics API for real-time data
+- Adding forecasting using Tableau’s trend lines
+- Embedding dashboard into a web application
+
+---
+
+## 📬 Feedback
+
+Feel free to suggest improvements, or fork the project to customize it for your own business or product analytics!
+
